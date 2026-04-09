@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "Sony Alpha ILCE-7RM4A Full-Frame Camera",
+    "category": "Electronics",
+    "image_url": "https://m.media-amazon.com/images/I/81xNEcO6ZcL._SX679_.jpg",
+    "original_price": 274990,
+    "discounted_price": 250000,
+    "discount_percentage": 9,
+    "rating": 4.8,
+    "offers": [
+      "10% Instant Discount on HDFC Credit Card",
+      "No Cost EMI starting ₹20,833/month"
+    ],
+    "historical_prices": [270000, 265000, 250000]
+  },
+  {
+    "id": 2,
+    "title": "Apple iPhone 15 Pro Max (256 GB)",
+    "category": "Mobiles",
+    "image_url": "https://m.media-amazon.com/images/I/81Os1SDWpcL._SX679_.jpg",
+    "original_price": 159900,
+    "discounted_price": 149900,
+    "discount_percentage": 6,
+    "rating": 4.6,
+    "offers": [
+      "5% Cashback on SBI Credit Card",
+      "No Cost EMI starting ₹12,491/month"
+    ],
+    "historical_prices": [159900, 155000, 149900]
+  },
+  {
+    "id": 3,
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "category": "Electronics",
+    "image_url": "https://m.media-amazon.com/images/I/51aXvjzcukL._SX679_.jpg",
+    "original_price": 34990,
+    "discounted_price": 29990,
+    "discount_percentage": 14,
+    "rating": 4.5,
+    "offers": [
+      "Extra ₹1,000 off on ICICI Bank Cards",
+      "No Cost EMI starting ₹2,499/month"
+    ],
+    "historical_prices": [34900, 32000, 29990]
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy S24 Ultra 5G",
+    "category": "Mobiles",
+    "image_url": "https://m.media-amazon.com/images/I/71CXhVhpM0L._SX679_.jpg",
+    "original_price": 129999,
+    "discounted_price": 124999,
+    "discount_percentage": 4,
+    "rating": 4.7,
+    "offers": [
+      "10% Instant Discount on HDFC Credit Card",
+      "No Cost EMI starting ₹10,416/month"
+    ],
+    "historical_prices": [129999, 127000, 124999]
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Max 270 Men's Sneakers",
+    "category": "Fashion",
+    "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94825d10-8449-41e9-9fa9-4f7f2b1848bb/air-max-270-mens-shoes-KkLcGR.png",
+    "original_price": 12995,
+    "discounted_price": 9995,
+    "discount_percentage": 23,
+    "rating": 4.2,
+    "offers": [
+      "5% Cashback on SBI Credit Card"
+    ],
+    "historical_prices": [12995, 11000, 9995]
+  },
+  {
+    "id": 6,
+    "title": "Dell XPS 15 Laptop (Intel i9, 32GB RAM)",
+    "category": "Laptops",
+    "image_url": "https://m.media-amazon.com/images/I/61r5NqK3DIL._SX679_.jpg",
+    "original_price": 250000,
+    "discounted_price": 235000,
+    "discount_percentage": 6,
+    "rating": 4.9,
+    "offers": [
+      "Extra ₹1,000 off on ICICI Bank Cards",
+      "No Cost EMI starting ₹19,583/month"
+    ],
+    "historical_prices": [250000, 245000, 235000]
+  }
+]
